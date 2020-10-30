@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>1023514437682-is3t08v0306eiuqs14fs1ldqeq1qgaml.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.1023514437682-is3t08v0306eiuqs14fs1ldqeq1qgaml</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>1023514437682-fhnfsutubct90dllpkt8bkod2ajd8r61.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBjfnTw7p7iv5YXw7YhLECO-Pdw2wUnoHk</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1023514437682</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.keronei.mpesademo</string>
+	<key>PROJECT_ID</key>
+	<string>nigel-da5d1</string>
+	<key>STORAGE_BUCKET</key>
+	<string>nigel-da5d1.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1023514437682:ios:2496e17b41230963de742b</string>
+	<key>DATABASE_URL</key>
+	<string>https://nigel-da5d1.firebaseio.com</string>
+</dict>
+</plist>
