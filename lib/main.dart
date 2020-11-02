@@ -1,7 +1,6 @@
 import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:firebase_core/firebase_core.dart';
 import 'package:flutter/material.dart';
-import 'package:flutter/services.dart';
 import 'package:mpesa_flutter_plugin/initializer.dart';
 import 'package:mpesa_flutter_plugin/payment_enums.dart';
 import 'package:mpesademo1/keys.dart';
@@ -20,8 +19,7 @@ class MyHomePage extends StatefulWidget {
 
 class _MyHomePageState extends State<MyHomePage> {
   DocumentReference paymentsRef;
-  String mUserMail = "alice@keron.co.ke";
-  int mCurrentAccountBalance = 0;
+  String mUserMail = "bob@keron.co.ke";
 
   // Set default `_initialized` and `_error` state to false
   bool _initialized = false;
@@ -176,7 +174,7 @@ class _MyHomePageState extends State<MyHomePage> {
             return;
           }
 
-          startTransaction(amount: 1.0, phone: "254729050401");
+          startTransaction(amount: 2.0, phone: "254 your phone here");
         },
         tooltip: 'Increment',
         label: Text("Top Up"),
